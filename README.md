@@ -6,7 +6,7 @@ cd youtube-free-api
 conda create -n youtube-free-api python=3.9
 pip install -r requirements.txt
 ``` 
-###Libraries Used:
+### Libraries Used:
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
 * [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
 * [spacy](https://spacy.io/) (en-core-web-lg model)
