@@ -1,4 +1,10 @@
 ## Transcribing a Youtube video with a given URL
+### WHAT DOES IT DO?
+Retrieves automatically generated and/or manually uploaded transcript of a Youtube Video and using Spacy's en-core-web-lg-model, inserts punctuation marks wherever necessary as well as capitalizing the start of each sentence.
+### IS IT ANY GOOD?
+YES! Most words are grammatically correct with a very few spelling errors. However, you might see some punctuation errors such as double dots, double commas but it is bearable.Considering this is a free service, one can turn a blind eye to the occasional punctuation errors, in my opinion.
+### ANY RECOMMENDATIONS?
+ If you're looking for the best YouTube video or any kind of audio transcription, I recommend checking out [AssemblyAI](https://www.assemblyai.com/). It costs $0.9 per minute.
 ### Install:
 Make sure you have downloaded the folder and changed to the folder directory in the command line. Install the required dependencies by running the following command:
 ```bash
