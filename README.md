@@ -2,7 +2,6 @@
 ### Install:
 Make sure you have downloaded the folder and changed to the folder directory in the command line. Install the required dependencies by running the following command:
 ```bash
-git clone 
 cd youtube-free-api
 conda create -n youtube-free-api python=3.9
 pip install -r requirements.txt
