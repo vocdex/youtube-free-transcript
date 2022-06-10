@@ -1,0 +1,104 @@
+Terence tao is one of the world's best mathematicians..He has won maths top prize, the fields medal,
+and many would consider him a genius..His talents were recognised early, and he
+was a child math prodigy..He was dabbling in university courses when
+he was nine..And by 16, he had graduated from flinders
+university in adelaide..By 21..He had his phd from princeton..When terrance was seven, he was taking some
+math and physics classes at his local high school..And it was around this time that he was visited
+at home by ken clements, a researcher of mathematically gifted children..This report is clements', thoughts and findings
+on tao, including the results of a math test given to him..So let's take a look at it..It was the day before terence's eighth birthday,
+the 16th of july 1983, exactly 38 years ago..And it says here that terence was given an
+operations test..Knowing that he might find the first few questions
+too easy, clements says 'you shouldn't laugh at the questions because they get harder towards
+the end of the test.'.And terrance has an interesting reply..He says 'the questions won't know if i laugh
+at them because they haven't got ears.'.He went on to score 60 out of 60 on this test,
+on average, a year 12 student taking the same test would be expected to get a score of only
+53 out of 60..And here's one of those example questions..Question 58 asked if p divided by q divided
+by r is equal to delta divided by q divided by r, then find delta..And here is seven year old terence's answer..He writes it out as a fraction, and then just
+does a bit of algebra to rearrange for delta, getting it to be p over r squared..Although it was clear to clements that this
+test was too easy for terrence and they'd need to move on to some more difficult things..This next set of questions were presented
+to him, and they had to be worked out mentally..They include things like what angle does an
+hour hand describe in 20 minutes?.Terence got all eight of these questions correct
+as well, in a total time of nine minutes..Clements noticed that while terence had been
+solving the questions, he often justified an algebraic step by writing the appropriate
+algebraic law, for example, the associative law next to it..And so that prompted this following very interesting
+conversation..Clements asked what is the associative law
+for addition of real numbers, terence answers that it doesn't matter where you put the brackets..He also gives a correct definition of the
+commutative laws, and he also gives a correct definition of a group, something that most
+math students don't encounter until university..However, it seems that the first thing to
+stump him was being asked what is a field..Terence replies, "i don't know"..Given that i barely have a grasp on what a
+field is now, i think it's forgivable for a seven year old terence not to know that
+either..He does, however, know about the distributive
+law and gives the example multiplication over addition, clements asks if addition over multiplication
+is an example, but terence replies "only for boolean algebras"..Clements was quite impressed by all of this,
+'not only did he have an astounding grasp of algebraic definitions for someone who was
+still seven years old, but i was amazed at how he used sophisticated mathematical language
+freely..I was beginning to form the impression that
+terence preferred to use analytic non-visual methods in preference to making extensive
+use of visual imagery'..Here is one of terence's actual written solutions
+to a question that says, 'the length of each side of a square is increased by three metres..The area of the new square is 39 metres squared
+more than that of the original square..How long are the sides of the new square?'.Terence correctly finds that the length of
+the new square is eight metres..The next set of questions given to terrance
+include 'suppose you decided to write down all the numbers from one to 99,999..How many times would you have to write the
+number one?'.This one terrance actually gave an incorrect
+solution to, although still an answer that shows plenty of critical thought about the
+question..Apparently the correct solution here is 50,000..He struggled a little bit with a few more
+of these questions..And clements says that, 'at this stage, terence
+was showing slight signs of fatigue, although his interest was still high'..So he asked him just two more relatively simple
+questions..First he asked him to sketch the graph of
+y equals x squared plus x, which he did immediately, 'i asked him to find the coordinates of the
+turning point, and he wrote them down..This response took 20 seconds..I then asked him to sketch y is equal to x
+cubed minus 2x squared plus x..And in about one minute, he produced this'..It is interesting to note that terence hadn't
+begun to study any calculus at school..But when clements had arrived at the tao household,
+and was speaking with terence's parents, billy and grace, he had spotted terence sitting
+in the far corner of the room, reading a book with the title calculus..Terence's dad was a doctor and terence's mum
+was a graduate of physics and maths, who had worked as a high school teacher..She said that terence liked to read mathematics
+by himself, and often spent three or four hours after school reading mathematics textbooks..Terence also had an interest in computer programming,
+and had taught himself basic language by reading a book..And at the end of this first visit, clements
+was shown one of terence's programmes, it was called fibonacci and actually contains
+plenty of humour..Apparently, terence wrote many of his programmes
+when he was just six years old..So let's take a look at fibonacci..It doesn't just calculate the sequence..It starts with, 'here comes mr. fibonacci..Can you guess which year was mr fibonacci
+born?.Write down a number please'..Then, if the user inputs the correct answer,
+they can start..However, if their guess is too far off, they'll
+be told 'no, he is already in heaven..Try again.'.Or they might be told 'sorry, he wasn't born
+yet..Try again.'.Then if they were close, it would print the
+difference between the guess and the actual answer, meaning that even to start this programme,
+the user is guided by a bit of mathematics..After printing some of the sequence, it ends
+with 'mr. fibonacci is leaving now'..And 'here goes his car'..This line is perhaps the only reminder of
+just how young the author of this programme is..Five weeks later, clements came back for a
+second visit..And he asked terence if something was a field..He was terence's answer, clearly demonstrating
+that since the last visit, he now knew exactly what a field was..This kind of answer is something that a university
+student would be proud of..And it shows just how fast terence was able
+to learn concepts..They encountered another thing, though, that
+he didn't know yet..He was asked for the antiderivative of one
+over x, and responded that he had not got up to that yet in his reading..But on a third visit, not long after the second,
+terence had not only mastered the antiderivative of one over x, but was doing things like this
+with partial fractions..He was given a space visualisation test, which
+again made clements come to the conclusion that terence preferred to use non-visual analytic
+methods, even if they required more complicated thinking than more visual methods..For example, with this question here, terence
+said that he checked each shape by the reflection law, which was that each point had an image
+on the other side of the mediator, and he did not imagine each shape being folded along
+the dotted line..Included in the report was terence's school
+timetable, the subjects marked with the asterix took place at the primary school, whilst all
+the others took place at the high school..His teachers said that whilst seven year old
+terence did have the academic ability of a 16 year old, his maturity was still that of
+a seven year old..And terence's parents had to balance giving
+him a childhood that challenged him intellectually, but also allowed him to fit in socially and
+emotionally..Report makes it clear that rather than being
+pushed along one rigid track of mathematical education, terence was allowed to pursue the
+topics that interested and challenged him the most..He loved mathematics, and the efforts of those
+around him were to ensure that he did not become bored or frustrated with non challenging
+work..Let's finish with a look at a programme that
+now eight year old terence tao had submitted for publication to a student mathematics journal
+called trigon..It is all about perfect numbers and is labelled
+here as terence's first published paper..'a perfect number is one such that all its
+factors including one but excluding itself, add up to itself..For example, six is a perfect number because
+six has factors one, two, three and six, and one plus two plus three is equal to six'..Euclid proved that a number of this form is
+a perfect number, if two to the p minus one is a prime number..So terence says that he has used this fact
+to write a programme in basic to find perfect numbers, which starts with a programme for
+checking if two to the p minus one is prime..Then he computes perfect numbers up to 10
+to the 13..Yet again another example of just how outstanding
+he is..It's been humbling for me to read through
+these notes..I hope that it doesn't seem discouraging to
+any aspiring mathematicians out there..As i'm sure terence tao would even agree that
+many of the great mathematicians followed a more conventional path through education..Thanks for watching..I hope you've enjoyed this video..And thanks as always to my patreon supporters
+for making these videos possible..
