@@ -35,7 +35,7 @@ The title of each transcript is the name of the YouTube video.
 ### Warnings
 youtube-transcript-api is not officicially documented and is not guaranteed to work in case Youtube changes access restrictions or updates the API.
 Refer to [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) for more information.
-###Further usages:
+### Further usages:
 #### Translate transcript
 
 YouTube has a feature which allows you to automatically translate subtitles. This module also makes it possible to access this feature. To do so `Transcript` objects provide a `translate()` method, which returns a new translated `Transcript` object:
