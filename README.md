@@ -1,7 +1,7 @@
 ## Transcribing a Youtube video with a given URL
 ### WHAT DOES IT DO?
 Retrieves automatically generated and/or manually uploaded transcript of a Youtube Video. Polishes raw transcript   
-with Spacy's en-core-web-lg-model,by inserting punctuation marks wherever necessary as well as capitalizing the start of each sentence.
+with **Spacy's en-core-web-lg-model**, by inserting punctuation marks wherever necessary as well as capitalizing the start of each sentence.
 ### IS IT ANY GOOD?
 YES! Most words are grammatically correct with a very few spelling errors. However, you might see some punctuation errors such as double dots, double commas but it is bearable.Considering this is a free service, one can turn a blind eye to the occasional punctuation errors, in my opinion.
 ### ANY RECOMMENDATIONS?
